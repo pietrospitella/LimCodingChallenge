@@ -1,0 +1,75 @@
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.container{
+  width: 700px;
+  height: auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 3%;
+  margin: auto;
+  margin-top: 30px;
+  padding: 5%;
+}
+
+
+.logo-and-sub{
+  font-family: 'Montserrat', sans-serif;
+  color: #24D000;
+  text-align: center;
+}
+
+.logo{
+  width: 400px;
+}
+
+.greenbar{
+  background-color: #24D000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+}
+
+main{
+  text-align: left;
+  padding: auto;
+}
+
+.scooter-name{
+  font-size: 20px;
+}
+
+.description{
+  font-size: 10px;
+}
+
+
+.statusbar-orange{
+  height: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  background-color: orange;
+  width: 410px;
+}
+
+.statusbar-green {
+  height: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  background-color: #24D000;
+  width: 600px;
+}
+
+.statusbar-red{
+  height: 30px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  background-color: red;
+  width: 190px;
+}
